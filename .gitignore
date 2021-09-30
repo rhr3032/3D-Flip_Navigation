@@ -1,0 +1,15 @@
+// Bootstrap CSS File
+
+vendors/css/bootstrap.css
+vendors/css/bootstrap.css.map
+
+
+=======================================
+
+
+// Bootstrap JavaScript File
+
+vendors/js/bootstrap.js
+vendors/js/bootstrap.js.map
+vendors/js/bootstrap.bundle.js
+vendors/js/bootstrap.bundle.js.map
