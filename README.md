@@ -4,4 +4,4 @@
     Instagram:rhr_raisulrafi
     Twitter:rhr_raisulrafi
 
-    Copyright 2021 Raisul Rafi
+   Copyright 2021 Raisul Rafi | All Rights Reserved.
